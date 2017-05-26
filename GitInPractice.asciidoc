@@ -3,3 +3,5 @@ Git In Practice, Redux
 Push/pull test.
 
 What about fetching?
+
+Chapter 2
